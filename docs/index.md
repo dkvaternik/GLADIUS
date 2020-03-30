@@ -1,4 +1,4 @@
-Gladius respirator is a symbol of combating the coronavirus pandemic. The first prototype was developed by David Kvaternik, one of the project's idea leaders to protect his family in the uncertain time of the pandemic. David, an expert in VR/AR and 3D modelling scanned both, his own and his wife’s face and used the scans to create a generic version of respirator in two sizes fitting the human face. David has designed and 3D printed the first prototypes that were tested by doctors in a hospital in Slovenia using various filter media. Based on the feedback of medical professionals the design was further improved and the Respirator with HEPA filter was then released to the Open-Source community. David’s idea inspired Ales Pevc and Doroteja Maklin. Together the three of them  initiated a team of experts and supporters to create a community initiative in Slovenia which is driven by the vision that everyone can actively help protect lives. In the following days an core team supported by experts in design, microbiology, physics, public relations, business development, education,  health and medicine started planning and taking steps to supply the masks and respirators to both front line and second line workers as soon as possible.
+Gladius respirator is a symbol of combating the coronavirus pandemic. The first prototype was developed by David Kvaternik, one of the project's idea leaders to protect his family in the uncertain time of the pandemic. David, an expert in VR/AR and 3D modelling scanned both, his own and his wife’s face and used the scans to create a generic version of respirator in two sizes fitting the human face. David has designed and 3D printed the first prototypes that were tested by doctors in a hospital in Slovenia using various filter media. Based on the feedback of medical professionals the design was further improved and the Respirator with HEPA filter was then released to the Open-Source community. David’s idea inspired Ales Pevc and Doroteja Maklin. Together the three of them  initiated a team of experts and supporters to create a community initiative in Slovenia which is driven by the vision that everyone can actively help protect lives. In the following days a core team supported by experts in design, microbiology, physics, public relations, business development, education,  health and medicine started planning and taking steps to supply the masks and respirators to both front line and second line workers as soon as possible.
 
 ![gladius-friends-and-heroes](assets/images/gladius_friends_and_heroes.jpg "Gladius Friends & Heroes")
 
@@ -10,8 +10,9 @@ The core team is working 24/7 to design, test and offer new designs to Open-Sour
 
 # Versions
 
-## <i class="fab fa-superpowers"></i> Gladius Heroes respirator mask
-* <a href="https://github.com/dkvaternik/GLADIUS/tree/master/Microbiological%20Breathing%20Filter%20Face%20Mask" target="_blank">Download files for MEDIUM mask here</a>
+## <i class="fal fa-bolt"></i> Gladius Heroes respirator mask
+Gladius Heroes respirator mask is a prototype of a mask utilizing existing filters used for ventilators (see details about filters below) and it is intended for the front line heroes working in healthcare industry.
+* <a href="" target="_blank">Download files for MEDIUM mask here</a>
 
 ![gladius-heroes](assets/images/gladius_heroes.png "Gladius Heroes respirator mask")
 
@@ -21,7 +22,7 @@ The core team is working 24/7 to design, test and offer new designs to Open-Sour
 * PLA filament
 * Breathing Filter*
 
-*Breathing filters are stocked in most health centres and hospitals as an accessory for ventilators. The model of the filter used to design the respirator is certified to 99.99% efficiency. The filter the mask was designed for can be found <a href="https://www.intersurgical.com/products/airway-management/clearguard-range-medium-efficiency" target="_blank">here</a>.
+** Breathing filters are stocked in most health centres and hospitals as an accessory for ventilators. The model of the filter used to design the respirator is certified to 99.99% efficiency. The filter the mask was designed for can be found <a href="https://www.intersurgical.com/products/airway-management/clearguard-range-medium-efficiency" target="_blank">here</a>.
 
 ### 3D print settings
 
@@ -39,6 +40,9 @@ The core team is working 24/7 to design, test and offer new designs to Open-Sour
 ***
 
 ## <i class="fal fa-users"></i> Gladius Friends respirator mask
+
+Gladius Friends respirator mask is a mask for everybody that has access to 3D printer or 3D printing service. The mask is reusable and can be fitted with a variety of filter materials for everyday use.
+
 * <a href="https://github.com/dkvaternik/GLADIUS/tree/master/HEPA%20Filter%20Face%20Mask" target="_blank">Download files for SMALL mask here</a>
 * <a href="https://github.com/dkvaternik/GLADIUS/tree/master/HEPA%20Filter%20Face%20Mask" target="_blank">Download files for MEDIUM mask here</a>
 
@@ -66,7 +70,7 @@ The core team is working 24/7 to design, test and offer new designs to Open-Sour
 ### Gladius mask may be reused with right disinfection and sterilization
 With right disinfection and sterilization, the mask is reusable. Coronavirus is a heat-sensitive virus and becomes inactive when heated to 56° C for 15 minutes  <a href="#references"><sup>1</sup></a><a href="#references"><sup>2</sup></a>. Experts state that at the time of rationing during the outbreak of coronavirus in China, masks were sterilized and reused <a href="#references"><sup>3</sup></a>. They proved to successfully deactivate the virus during dry sterilization (use of industrial oven heat) at 56° C.
 
-Note, that it is very important how you handle the mask before the sterilization process, as it must at all times be treated as contagious (infected with a coronavirus).
+Note, that it is very important how you handle the mask before the sterilization process, as it must at all times be treated as contagious (infected with coronavirus).
 
 ### References
 * <a href="https://www.hindawi.com/journals/av/2011/734690/" target="_blank"><sup>1</sup> The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus: K. H. Chan , J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto (Department of Microbiology, The University of Hong Kong, Queen Mary Hospital, Pokfulam, Hong Kong), pridobljeno: 24. 3. 2020</a>
@@ -83,11 +87,3 @@ Testing and certification of this face mask, from all aspects, from production, 
 Also, it is not the purpose of this project to replace official certified medical equipment, but to offer an alternative to bandanas, coffee filters (we're hearing such sad stories from throughout Europe) etc.
 
 It is an open-source, goodwill project, aiming to do the best we can to help each other in a very difficult situation.
-
-# About Zaščitimo Slovenijo initiative
-
-Gladius masks based on David Kvaternik design are developed by a team of volunteers from different industries to raise public awareness about the precautions in the time of the coronavirus pandemic, following the instructions of the NIJZ (National Institute of Public Health from Slovenia) and other official institutions (WHO, UKC - University Medical Centre from Slovenia…). Furthermore, the team would like to provide basic protective equipment for front line workers and other residents that need it in the shortest period of time. We will succeed together, as there are more and more of us, joining forces together!
-
-We are truly grateful to everyone who, in these times of crisis, strains their brain and searches for solutions to help those in need of protection. We will make it together!
-
-P.S.: If you have a tried and tested  solution or knows a case of good practice, please let us know: <a href="mailto:info@zascitimo.si">info@zascitimo.si</a>.
