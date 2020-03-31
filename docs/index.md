@@ -12,7 +12,9 @@ The core team is working 24/7 to design, test and offer new designs to Open-Sour
 
 ## <i class="fal fa-bolt"></i> Gladius Heroes respirator mask
 Gladius Heroes respirator mask is a prototype of a mask utilizing existing filters used for ventilators (see details about filters below) and it is intended for the front line heroes working in healthcare industry.
-* <a href="" target="_blank">Download files for MEDIUM mask here</a>
+* <a href="https://github.com/dkvaternik/GLADIUS/blob/master/Gladius_Heroes/gladius_heroes_version-2.0_large.stl" target="_blank">Download files for LARGE mask here</a>
+* <a href="https://github.com/dkvaternik/GLADIUS/blob/master/Gladius_Heroes/gladius_heroes_version-2.0_medium.stl" target="_blank">Download files for MEDIUM mask here</a>
+* <a href="https://github.com/dkvaternik/GLADIUS/blob/master/Gladius_Heroes/gladius_heroes_version-2.0_small.stl" target="_blank">Download files for SMALL mask here</a>
 
 ![gladius-heroes](assets/images/gladius_heroes.png "Gladius Heroes respirator mask")
 
@@ -43,8 +45,8 @@ Gladius Heroes respirator mask is a prototype of a mask utilizing existing filte
 
 Gladius Friends respirator mask is a mask for everybody that has access to 3D printer or 3D printing service. The mask is reusable and can be fitted with a variety of filter materials for everyday use.
 
-* <a href="https://github.com/dkvaternik/GLADIUS/tree/master/HEPA%20Filter%20Face%20Mask" target="_blank">Download files for SMALL mask here</a>
-* <a href="https://github.com/dkvaternik/GLADIUS/tree/master/HEPA%20Filter%20Face%20Mask" target="_blank">Download files for MEDIUM mask here</a>
+* <a href="https://github.com/dkvaternik/GLADIUS/blob/master/Gladius_Friends/Large/" target="_blank">Download files for LARGE mask here</a>
+* <a href="https://github.com/dkvaternik/GLADIUS/tree/master/Gladius_Friends/Small/" target="_blank">Download files for SMALL mask here</a>
 
 ![gladius-friends](assets/images/gladius_friends.png "Gladius Friends respirator mask")
 
