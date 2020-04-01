@@ -38,7 +38,6 @@ Gladius Heroes respirator mask is a prototype of a mask utilizing existing filte
 * Notes: **No supports needed**. We recommend 3 perimeters. PLA is used for it's relative non-toxicity and personalization/fitting options.
 * Printing position: The mask **must be printed** in the original orientation (vertically), as otherwise the filter seal could be compromised
 
-
 ***
 
 ## <i class="fal fa-users"></i> Gladius Friends respirator mask
@@ -78,6 +77,13 @@ Note, that it is very important how you handle the mask before the sterilization
 * <a href="https://www.hindawi.com/journals/av/2011/734690/" target="_blank"><sup>1</sup> The Effects of Temperature and Relative Humidity on the Viability of the SARS Coronavirus: K. H. Chan , J. S. Malik Peiris, S. Y. Lam, L. L. M. Poon, K. Y. Yuen, and W. H. Seto (Department of Microbiology, The University of Hong Kong, Queen Mary Hospital, Pokfulam, Hong Kong), pridobljeno: 24. 3. 2020</a>
 * <a href="https://www.who.int/csr/sars/survival_2003_05_04/en/" target="_blank">2 WHO, pridobljeno: 24. 3. 2020</a>
 * <a href="https://mp.weixin.qq.com/s/3QYVWO4kj5qwuSHnhcM9uQ" target="_blank"><sup>3</sup>, pridobljeno: 24. 3. 2020</a>
+
+# Gladius respirator mask around the world
+<iframe src="https://www.google.com/maps/d/embed?mid=1kB9XxEqksiw_X_jwVVCU4ftrj6paFKe0" width="100%" height="480"></iframe>
+
+***
+
+<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/xL1BUPOA1bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Disclamer
 
